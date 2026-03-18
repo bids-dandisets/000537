@@ -1,0 +1,21 @@
+{
+    "Name": "Scaling of GEVI Fluorescence with 1P and 2P Illumination",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "This dataset contains videos demonstrating the fluorescence of Human Embryonic Kidney (HEK) cells transfected with common genetically encoded voltage indicators (GEVIs). ",
+    "DatasetType": "raw",
+    "Authors": [
+        "Davis, Hunter C.",
+        "Brooks, F. Phil",
+        "Cohen, Adam E."
+    ],
+    "License": "CC0-1.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.11.2.dev15+g782176cb1",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
